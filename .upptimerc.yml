@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: AOT-Technologies
+repo: forms-flow-ai
 
 sites:
   - name: Sandbox Web
@@ -18,14 +18,15 @@ status-website:
   # cname: app3.aot-technologies.com
   baseUrl: /forms-flow-upptime
   logoUrl: https://raw.githubusercontent.com/AOT-Technologies/forms-flow-ai/master/forms-flow-web/src/assets/styles/formsflow.ai_icon.svg
-  name: Formsflow Sandbox
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: formsflow.ai
+  introTitle: "formsflow.ai status"
+  introMessage: [**formsflow.ai**](https://formsflow.ai/) is a Free, Open-Source, Low Code Development Platform for rapidly building powerful business applications. [**formsflow.ai**](https://formsflow.ai/) combines leading Open-Source applications including [form.io](https://form.io) forms, Camunda’s workflow engine, Keycloak’s security, and Redash’s data analytics into a seamless, integrated platform.
+
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/AOT-Technologies/forms-flow-ai/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
