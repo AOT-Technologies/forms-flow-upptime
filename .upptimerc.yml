@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/AOT-Technologies/forms-flow-ai/master/forms-flow-web/src/assets/styles/formsflow.ai_icon.svg
   name: formsflow.ai
   introTitle: "formsflow.ai status"
-  introMessage: [**formsflow.ai**](https://formsflow.ai/) is a Free, Open-Source, Low Code Development Platform for rapidly building powerful business applications. [**formsflow.ai**](https://formsflow.ai/) combines leading Open-Source applications including [form.io](https://form.io) forms, Camunda’s workflow engine, Keycloak’s security, and Redash’s data analytics into a seamless, integrated platform.
+  introMessage: "[**formsflow.ai**](https://formsflow.ai/) is a Free, Open-Source, Low Code Development Platform for rapidly building powerful business applications. [**formsflow.ai**](https://formsflow.ai/) combines leading Open-Source applications including [form.io](https://form.io) forms, Camunda’s workflow engine, Keycloak’s security, and Redash’s data analytics into a seamless, integrated platform."
 
   navbar:
     - title: Status
