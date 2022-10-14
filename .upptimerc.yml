@@ -15,8 +15,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: app3.aot-technologies.com
-  # baseUrl: /your-repo-name
+  # cname: app3.aot-technologies.com
+  baseUrl: /forms-flow-upptime
   logoUrl: https://raw.githubusercontent.com/AOT-Technologies/forms-flow-ai/master/forms-flow-web/src/assets/styles/formsflow.ai_icon.svg
   name: Formsflow Sandbox
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
