@@ -22,7 +22,7 @@ status-website:
 
   navbar:
     - title: Status
-      href: /
+      href: /forms-flow-upptime
     - title: GitHub
       href: https://github.com/AOT-Technologies/forms-flow-upptime/
 
