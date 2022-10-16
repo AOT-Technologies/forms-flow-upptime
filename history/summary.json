@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app3.aot-technologies.com.ico",
     "slug": "sandbox-web",
     "status": "up",
-    "uptime": "41.71%",
-    "uptimeDay": "41.71%",
-    "uptimeWeek": "41.71%",
-    "uptimeMonth": "41.71%",
-    "uptimeYear": "41.71%",
-    "time": 301,
-    "timeDay": 301,
-    "timeWeek": 301,
-    "timeMonth": 301,
-    "timeYear": 301,
+    "uptime": "68.38%",
+    "uptimeDay": "64.61%",
+    "uptimeWeek": "68.38%",
+    "uptimeMonth": "68.38%",
+    "uptimeYear": "68.38%",
+    "time": 295,
+    "timeDay": 317,
+    "timeWeek": 295,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2022-10-15": 510
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 339,
-    "timeDay": 339,
-    "timeWeek": 339,
-    "timeMonth": 339,
-    "timeYear": 339,
+    "time": 327,
+    "timeDay": 244,
+    "timeWeek": 327,
+    "timeMonth": 327,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   }
 ]
