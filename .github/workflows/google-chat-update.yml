@@ -10,10 +10,11 @@ jobs:
     steps:
     - name: Echo
       run: |
-        echo "${{ fromJson(github.event) }}"
+        echo "${{ github.event }}"
         echo "${{github.event.issue}}" 
         echo "${{github.event.issue.label}}" 
         echo "${{github.event.issue.label.name}}"
+        echo "${{github.event.issue.number}}"
         
     - name: Google Chat Notification
       if: ${{ github.event.issue.label.name == 'status' }}
