@@ -14,7 +14,7 @@ jobs:
         echo "${{github.event.issue}}" 
         echo "${{github.event.issue.label}}" 
         echo "${{github.event.issue.label.name}}"
-        echo "${{github.event.issue.number}}"
+        echo "${{github.event.issue.url}}"
         
     - name: Google Chat Notification
       if: ${{ github.event.issue.label.name == 'status' }}
