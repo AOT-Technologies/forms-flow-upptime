@@ -8,15 +8,14 @@ jobs:
   Google_Chat_Notification:
     runs-on: ubuntu-latest
     steps:
-    - name: Echo
-      run: |
-        echo "${{ github.event }}"
-        echo "${{github.event.issue}}" 
-        echo "${{github.event.issue.label}}" 
-        echo "${{github.event.issue.label.name}}"
-        echo "${{github.event.issue.url}}"
+    - name: Google Chat Notification - Product
+      uses: Co-qn/google-chat-notification@releases/v1
+      with:
+        name: "${{ github.event.issue.title }}"
+        url: ${{ secrets.GOOGLE_CHAT_WEBHOOK_2 }}
+        status: failure
         
-    - name: Google Chat Notification
+    - name: Google Chat Notification - Devops
       # if: ${{ github.event.issue.label.name == 'status' }}
       uses: Co-qn/google-chat-notification@releases/v1
       with:
