@@ -9,9 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Google Chat Notification
+      if: ${{ github.event.label.name == 'status' }}
       uses: Co-qn/google-chat-notification@releases/v1
       with:
-        name: Build
+        name: Incident ${{ github.event.issue }}
         url: ${{ secrets.GOOGLE_CHAT_WEBHOOK }}
-        status: ${{ job.status }}
-      if: always()
+        status: failed
