@@ -14,4 +14,4 @@ jobs:
       with:
         name: Incident ${{ github.event.issue }}
         url: ${{ secrets.GOOGLE_CHAT_WEBHOOK }}
-        status: failed
+        status: failure
