@@ -4,7 +4,7 @@ repo: forms-flow-upptime
 
 sites:
   - name: Sandbox Web
-    url: https://app3.aot-technologies.com/tenant/formsflow
+    url: https://app3.aot-technologies.com/tenant/formsflowai
   - name: Sandbox Keycloak
     url: https://iam3.aot-technologies.com/auth/realms/multitenant-app3/.well-known/openid-configuration
   - name: Sandbox API
