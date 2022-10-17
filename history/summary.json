@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app3.aot-technologies.com.ico",
     "slug": "sandbox-web",
     "status": "up",
-    "uptime": "84.74%",
+    "uptime": "85.14%",
     "uptimeDay": "95.65%",
-    "uptimeWeek": "84.74%",
-    "uptimeMonth": "84.74%",
-    "uptimeYear": "84.74%",
+    "uptimeWeek": "85.14%",
+    "uptimeMonth": "85.14%",
+    "uptimeYear": "85.14%",
     "time": 292,
     "timeDay": 282,
     "timeWeek": 292,
@@ -25,17 +25,19 @@
     "url": "https://iam3.aot-technologies.com/auth/realms/multitenant-app3/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/iam3.aot-technologies.com.ico",
     "slug": "sandbox-keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 230,
-    "timeWeek": 308,
-    "timeMonth": 308,
-    "timeYear": 308,
-    "dailyMinutesDown": {}
+    "time": 847,
+    "timeDay": 2234,
+    "timeWeek": 847,
+    "timeMonth": 847,
+    "timeYear": 847,
+    "dailyMinutesDown": {
+      "2022-10-17": 0
+    }
   }
 ]
