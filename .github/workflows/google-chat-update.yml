@@ -20,6 +20,6 @@ jobs:
       # if: ${{ github.event.issue.label.name == 'status' }}
       uses: Co-qn/google-chat-notification@releases/v1
       with:
-        name: "Incident - https://github.com/AOT-Technologies/forms-flow-upptime/issues/${{ github.event.issue.number }}"
+        name: "${{ github.event.issue.title }}"
         url: ${{ secrets.GOOGLE_CHAT_WEBHOOK }}
         status: failure
