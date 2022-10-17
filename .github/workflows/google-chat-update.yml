@@ -8,6 +8,11 @@ jobs:
   Google_Chat_Notification:
     runs-on: ubuntu-latest
     steps:
+    - name: Echo
+      run: |
+        echo "${{github.event}}"
+        echo "${{github.event.issue}}" 
+        echo "${{github.event.issue.label}}" 
     - name: Google Chat Notification
       if: ${{ github.event.issue.label.name == 'status' }}
       uses: Co-qn/google-chat-notification@releases/v1
