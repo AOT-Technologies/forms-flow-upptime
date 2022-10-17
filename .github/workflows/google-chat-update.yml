@@ -5,7 +5,7 @@ on:
     types: [ opened, reopened ]
 
 jobs:
-  - name: Google Chat Notification
+  Google_Chat_Notification:
     uses: Co-qn/google-chat-notification@releases/v1
     with:
       name: Build
