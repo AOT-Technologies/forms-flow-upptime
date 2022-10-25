@@ -10,7 +10,7 @@ sites:
   - name: Sandbox API
     url: https://app3.aot-technologies.com/api/
   - name: Sandbox Admin API
-    url: http://52.60.234.176:5010/api/v1/
+    url: https://app3.aot-technologies.com/adminapi/api/v1/swagger.json
   - name: Sandbox Forms
     url: https://forms3.aot-technologies.com/
   - name: Sandbox BPM
