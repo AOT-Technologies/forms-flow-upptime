@@ -1,7 +1,7 @@
 url: https://iam3.aot-technologies.com/auth/realms/multitenant-app3/.well-known/openid-configuration
 status: up
 code: 200
-responseTime: 109
-lastUpdated: 2022-10-26T23:05:00.951Z
+responseTime: 373
+lastUpdated: 2022-10-27T23:05:10.127Z
 startTime: Fri Oct 14 2022 21:35:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
