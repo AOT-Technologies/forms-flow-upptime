@@ -1,7 +1,7 @@
 url: https://app3.aot-technologies.com/tenant/formsflowai
-status: down
-code: 502
-responseTime: 9589
-lastUpdated: 2023-04-18T04:21:32.202Z
+status: up
+code: 200
+responseTime: 364
+lastUpdated: 2023-04-18T04:29:48.325Z
 startTime: Fri Oct 14 2022 21:35:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
