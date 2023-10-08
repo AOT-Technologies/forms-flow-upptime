@@ -1,7 +1,7 @@
 url: https://app3.aot-technologies.com/adminapi/api/v1/swagger.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-08T03:07:55.221Z
+status: up
+code: 200
+responseTime: 25
+lastUpdated: 2023-10-08T05:10:00.373Z
 startTime: 2022-10-17T22:21:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
