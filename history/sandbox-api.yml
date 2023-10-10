@@ -1,7 +1,7 @@
 url: https://app3.aot-technologies.com/api/
-status: down
-code: 502
-responseTime: 19
-lastUpdated: 2023-10-10T11:15:37.657Z
+status: up
+code: 200
+responseTime: 26
+lastUpdated: 2023-10-10T11:21:59.854Z
 startTime: 2022-10-17T22:21:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
