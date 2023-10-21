@@ -11,9 +11,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.47%",
     "time": 532,
-    "timeDay": 365,
-    "timeWeek": 1378,
-    "timeMonth": 769,
+    "timeDay": 389,
+    "timeWeek": 1376,
+    "timeMonth": 776,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2023-10-08": 122,
@@ -45,9 +45,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.82%",
     "time": 390,
-    "timeDay": 319,
-    "timeWeek": 264,
-    "timeMonth": 248,
+    "timeDay": 396,
+    "timeWeek": 269,
+    "timeMonth": 256,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2023-10-08": 122,
@@ -74,10 +74,10 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.79%",
     "time": 237,
-    "timeDay": 75,
+    "timeDay": 77,
     "timeWeek": 384,
-    "timeMonth": 788,
-    "timeYear": 239,
+    "timeMonth": 789,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2023-10-08": 122,
       "2023-08-30": 18,
@@ -106,9 +106,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.69%",
     "time": 161,
-    "timeDay": 75,
+    "timeDay": 77,
     "timeWeek": 52,
-    "timeMonth": 46,
+    "timeMonth": 48,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2023-10-08": 122,
@@ -130,18 +130,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/forms3.aot-technologies.com.ico",
     "slug": "sandbox-forms",
     "status": "down",
-    "uptime": "26.45%",
+    "uptime": "26.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "26.03%",
+    "uptimeYear": "25.76%",
     "time": 425,
-    "timeDay": 431,
-    "timeWeek": 308,
-    "timeMonth": 301,
+    "timeDay": 433,
+    "timeWeek": 311,
+    "timeMonth": 305,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2023-10-20": 15,
+      "2023-10-21": 15,
+      "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
@@ -414,8 +415,7 @@
       "2023-01-23": 1171,
       "2023-01-17": 49,
       "2022-10-31": 124,
-      "2022-10-25": 37,
-      "2022-10-21": 19
+      "2022-10-25": 37
     }
   },
   {
@@ -430,9 +430,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.46%",
     "time": 644,
-    "timeDay": 577,
-    "timeWeek": 369,
-    "timeMonth": 604,
+    "timeDay": 610,
+    "timeWeek": 373,
+    "timeMonth": 614,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2023-10-08": 122,
@@ -447,8 +447,7 @@
       "2023-04-12": 43,
       "2023-01-17": 49,
       "2022-10-31": 192,
-      "2022-10-25": 261,
-      "2022-10-21": 19
+      "2022-10-25": 261
     }
   }
 ]
