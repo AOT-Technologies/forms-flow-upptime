@@ -1,7 +1,7 @@
 url: https://bpm3.aot-technologies.com/camunda/
-status: up
-code: 200
-responseTime: 585
-lastUpdated: 2023-11-14T05:25:16.306Z
+status: down
+code: 500
+responseTime: 20224
+lastUpdated: 2023-11-14T05:45:37.598Z
 startTime: 2022-10-17T22:21:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
