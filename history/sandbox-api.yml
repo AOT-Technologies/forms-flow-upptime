@@ -1,7 +1,7 @@
-url: https://app3.aot-technologies.com/api/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-16T04:22:09.829Z
+url: https://forms-flow-api-prod.aot-technologies.com/
+status: up
+code: 200
+responseTime: 158
+lastUpdated: 2024-01-16T05:35:37.120Z
 startTime: 2022-10-17T22:21:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
