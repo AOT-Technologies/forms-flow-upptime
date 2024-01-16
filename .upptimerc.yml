@@ -4,17 +4,17 @@ repo: forms-flow-upptime
 
 sites:
   - name: Sandbox Web
-    url: https://app3.aot-technologies.com/tenant/formsflowai
+    url: https://trynow-formsflow-web.aot-technologies.com/tenant/formsflowai
   - name: Sandbox Keycloak
-    url: https://iam3.aot-technologies.com/auth/realms/multitenant-app3/.well-known/openid-configuration
+    url: https://forms-flow-idm-prod.aot-technologies.com/auth/realms/multitenant/.well-known/openid-configuration
   - name: Sandbox API
-    url: https://app3.aot-technologies.com/api/
+    url: https://forms-flow-api-prod.aot-technologies.com/
   - name: Sandbox Admin API
-    url: https://app3.aot-technologies.com/adminapi/api/v1/swagger.json
+    url: https://forms-flow-admin-prod.aot-technologies.com/api/v1/swagger.json
   - name: Sandbox Forms
-    url: https://forms3.aot-technologies.com/
+    url: https://forms-flow-forms-prod.aot-technologies.com/
   - name: Sandbox BPM
-    url: https://bpm3.aot-technologies.com/camunda/
+    url: https://forms-flow-bpm-prod.aot-technologies.com/camunda
     
 assignees: # Users to assign downtime issues (optional)
   - formsflow-product-team
