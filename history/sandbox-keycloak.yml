@@ -1,7 +1,7 @@
 url: https://forms-flow-idm-prod.aot-technologies.com/auth/realms/multitenant/.well-known/openid-configuration
 status: up
 code: 200
-responseTime: 113
-lastUpdated: 2024-02-07T23:04:37.889Z
+responseTime: 106
+lastUpdated: 2024-02-08T23:05:14.495Z
 startTime: 2022-10-14T21:35:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
