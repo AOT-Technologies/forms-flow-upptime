@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 324,
-    "timeDay": 324,
-    "timeWeek": 244,
-    "timeMonth": 237,
+    "timeDay": 363,
+    "timeWeek": 268,
+    "timeMonth": 233,
     "timeYear": 284,
     "dailyMinutesDown": {
       "2024-01-16": 74,
-      "2023-10-27": 19,
-      "2023-10-08": 122
+      "2023-10-27": 19
     }
   },
   {
@@ -32,16 +31,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 236,
-    "timeDay": 318,
-    "timeWeek": 247,
-    "timeMonth": 227,
+    "time": 237,
+    "timeDay": 422,
+    "timeWeek": 279,
+    "timeMonth": 230,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2024-01-16": 74,
       "2024-01-04": 364,
-      "2024-01-03": 1162,
-      "2023-10-08": 122
+      "2024-01-03": 1162
     }
   },
   {
@@ -56,14 +54,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 290,
-    "timeDay": 287,
-    "timeWeek": 235,
+    "timeDay": 298,
+    "timeWeek": 249,
     "timeMonth": 219,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2024-01-16": 73,
-      "2023-10-27": 19,
-      "2023-10-08": 122
+      "2023-10-27": 19
     }
   },
   {
@@ -78,13 +75,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 318,
-    "timeDay": 284,
-    "timeWeek": 228,
-    "timeMonth": 207,
-    "timeYear": 305,
+    "timeDay": 398,
+    "timeWeek": 253,
+    "timeMonth": 211,
+    "timeYear": 306,
     "dailyMinutesDown": {
-      "2024-01-16": 73,
-      "2023-10-08": 122
+      "2024-01-16": 73
     }
   },
   {
@@ -93,15 +89,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/forms-flow-forms-prod.aot-technologies.com.ico",
     "slug": "sandbox-forms",
     "status": "up",
-    "uptime": "50.19%",
+    "uptime": "50.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.00%",
+    "uptimeYear": "72.27%",
     "time": 256,
-    "timeDay": 326,
-    "timeWeek": 240,
-    "timeMonth": 210,
+    "timeDay": 316,
+    "timeWeek": 255,
+    "timeMonth": 211,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2024-01-16": 336,
@@ -203,8 +199,7 @@
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
-      "2023-10-09": 1440,
-      "2023-10-08": 1440
+      "2023-10-09": 1440
     }
   },
   {
@@ -213,18 +208,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/forms-flow-bpm-prod.aot-technologies.com.ico",
     "slug": "sandbox-bpm",
     "status": "down",
-    "uptime": "62.89%",
+    "uptime": "62.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "27.40%",
-    "time": 1012,
+    "uptimeYear": "27.13%",
+    "time": 1014,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1472,
+    "timeYear": 1482,
     "dailyMinutesDown": {
-      "2024-10-06": 22,
+      "2024-10-07": 22,
+      "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
@@ -491,8 +487,7 @@
       "2024-01-16": 1176,
       "2024-01-04": 364,
       "2024-01-03": 1161,
-      "2023-10-27": 19,
-      "2023-10-08": 122
+      "2023-10-27": 19
     }
   }
 ]
