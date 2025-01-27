@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 267,
-    "timeDay": 161,
-    "timeWeek": 214,
-    "timeMonth": 199,
+    "timeDay": 173,
+    "timeWeek": 208,
+    "timeMonth": 200,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2024-11-08": 87
@@ -30,9 +30,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 220,
+    "time": 219,
     "timeDay": 171,
-    "timeWeek": 211,
+    "timeWeek": 209,
     "timeMonth": 213,
     "timeYear": 216,
     "dailyMinutesDown": {
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 274,
-    "timeDay": 123,
-    "timeWeek": 210,
-    "timeMonth": 197,
-    "timeYear": 213,
+    "timeDay": 196,
+    "timeWeek": 207,
+    "timeMonth": 198,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2024-11-08": 86
     }
@@ -71,8 +71,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 274,
-    "timeDay": 208,
+    "time": 275,
+    "timeDay": 213,
     "timeWeek": 227,
     "timeMonth": 194,
     "timeYear": 202,
@@ -86,14 +86,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/forms-flow-forms-prod.aot-technologies.com.ico",
     "slug": "sandbox-forms",
     "status": "up",
-    "uptime": "56.89%",
+    "uptime": "56.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 223,
-    "timeDay": 120,
-    "timeWeek": 189,
+    "timeDay": 210,
+    "timeWeek": 190,
     "timeMonth": 189,
     "timeYear": 198,
     "dailyMinutesDown": {
@@ -106,18 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/forms-flow-bpm-prod.aot-technologies.com.ico",
     "slug": "sandbox-bpm",
     "status": "down",
-    "uptime": "54.41%",
+    "uptime": "54.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1513,
+    "time": 1522,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-26": 21,
+      "2025-01-27": 21,
+      "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -480,8 +481,7 @@
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
-      "2024-01-29": 1440,
-      "2024-01-28": 1440
+      "2024-01-29": 1440
     }
   }
 ]
