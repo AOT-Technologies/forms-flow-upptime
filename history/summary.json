@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 224,
-    "timeDay": 336,
-    "timeWeek": 276,
-    "timeMonth": 247,
+    "time": 225,
+    "timeDay": 327,
+    "timeWeek": 275,
+    "timeMonth": 246,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2024-11-08": 87
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 219,
-    "timeDay": 335,
-    "timeWeek": 279,
+    "time": 220,
+    "timeDay": 343,
+    "timeWeek": 284,
     "timeMonth": 239,
-    "timeYear": 222,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2025-01-02": 21,
       "2024-11-08": 86
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 196,
-    "timeDay": 337,
-    "timeWeek": 273,
+    "timeDay": 305,
+    "timeWeek": 274,
     "timeMonth": 232,
-    "timeYear": 217,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2024-11-08": 86
     }
@@ -71,10 +71,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 235,
-    "timeDay": 309,
-    "timeWeek": 246,
-    "timeMonth": 222,
+    "time": 230,
+    "timeDay": 250,
+    "timeWeek": 240,
+    "timeMonth": 220,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2024-11-08": 85
@@ -86,14 +86,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/forms-flow-forms-prod.aot-technologies.com.ico",
     "slug": "sandbox-forms",
     "status": "up",
-    "uptime": "60.11%",
+    "uptime": "60.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 206,
-    "timeDay": 281,
-    "timeWeek": 237,
+    "time": 207,
+    "timeDay": 310,
+    "timeWeek": 235,
     "timeMonth": 205,
     "timeYear": 202,
     "dailyMinutesDown": {
@@ -106,18 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/forms-flow-bpm-prod.aot-technologies.com.ico",
     "slug": "sandbox-bpm",
     "status": "down",
-    "uptime": "50.35%",
+    "uptime": "50.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 345,
+    "time": 348,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 22,
+      "2025-04-04": 23,
+      "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -480,8 +481,7 @@
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
-      "2024-04-05": 1440,
-      "2024-04-04": 1440
+      "2024-04-05": 1440
     }
   }
 ]
