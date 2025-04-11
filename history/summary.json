@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 225,
-    "timeDay": 194,
-    "timeWeek": 244,
-    "timeMonth": 239,
+    "timeDay": 175,
+    "timeWeek": 222,
+    "timeMonth": 237,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2024-11-08": 87
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 220,
-    "timeDay": 130,
-    "timeWeek": 231,
-    "timeMonth": 234,
+    "timeDay": 182,
+    "timeWeek": 208,
+    "timeMonth": 235,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2025-01-02": 21,
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 198,
-    "timeDay": 113,
-    "timeWeek": 205,
-    "timeMonth": 226,
+    "timeDay": 159,
+    "timeWeek": 184,
+    "timeMonth": 225,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2024-11-08": 86
@@ -71,10 +71,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 219,
-    "timeDay": 174,
-    "timeWeek": 203,
-    "timeMonth": 215,
+    "time": 213,
+    "timeDay": 136,
+    "timeWeek": 187,
+    "timeMonth": 213,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2024-11-08": 85
@@ -86,15 +86,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/forms-flow-forms-prod.aot-technologies.com.ico",
     "slug": "sandbox-forms",
     "status": "up",
-    "uptime": "60.42%",
+    "uptime": "60.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 206,
-    "timeDay": 126,
-    "timeWeek": 203,
-    "timeMonth": 203,
+    "timeDay": 198,
+    "timeWeek": 187,
+    "timeMonth": 206,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2024-11-08": 85
@@ -106,18 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/forms-flow-bpm-prod.aot-technologies.com.ico",
     "slug": "sandbox-bpm",
     "status": "down",
-    "uptime": "49.96%",
+    "uptime": "49.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 349,
+    "time": 350,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-10": 23,
+      "2025-04-11": 23,
+      "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -480,8 +481,7 @@
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
-      "2024-04-12": 1440,
-      "2024-04-11": 1440
+      "2024-04-12": 1440
     }
   }
 ]
