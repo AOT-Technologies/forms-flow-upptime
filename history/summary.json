@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 226,
-    "timeDay": 338,
-    "timeWeek": 288,
-    "timeMonth": 250,
-    "timeYear": 228,
+    "timeDay": 352,
+    "timeWeek": 309,
+    "timeMonth": 257,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2024-11-08": 87
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 221,
-    "timeDay": 314,
-    "timeWeek": 285,
-    "timeMonth": 250,
+    "time": 222,
+    "timeDay": 307,
+    "timeWeek": 293,
+    "timeMonth": 256,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2025-01-02": 21,
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 202,
-    "timeDay": 343,
-    "timeWeek": 267,
-    "timeMonth": 236,
-    "timeYear": 218,
+    "time": 203,
+    "timeDay": 294,
+    "timeWeek": 289,
+    "timeMonth": 240,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2024-11-08": 86
     }
@@ -71,10 +71,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 193,
-    "timeDay": 358,
-    "timeWeek": 274,
-    "timeMonth": 230,
+    "time": 194,
+    "timeDay": 289,
+    "timeWeek": 285,
+    "timeMonth": 235,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2024-11-08": 85
@@ -86,16 +86,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/forms-flow-forms-prod.aot-technologies.com.ico",
     "slug": "sandbox-forms",
     "status": "up",
-    "uptime": "60.89%",
+    "uptime": "60.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 205,
-    "timeDay": 314,
-    "timeWeek": 270,
-    "timeMonth": 223,
-    "timeYear": 203,
+    "timeDay": 296,
+    "timeWeek": 262,
+    "timeMonth": 227,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2024-11-08": 85
     }
@@ -106,18 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/forms-flow-bpm-prod.aot-technologies.com.ico",
     "slug": "sandbox-bpm",
     "status": "down",
-    "uptime": "49.36%",
+    "uptime": "49.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 355,
+    "time": 359,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-21": 25,
+      "2025-04-22": 23,
+      "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -480,8 +481,7 @@
       "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
-      "2024-04-23": 1440,
-      "2024-04-22": 1440
+      "2024-04-23": 1440
     }
   }
 ]
